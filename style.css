@@ -1,34 +1,14 @@
-
 @import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
-.list-item{
-    font-family:Lobster ;
-    color: #ffffff;
-    font-size: 17px;
-    margin-bottom:10px ;
-    padding: 5px;
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(3,25,79,1) 0%, rgba(6,127,255,1) 44%, rgba(0,212,255,1) 88%);
-    border-radius: 5px;
-    height: 200px;
-}
-
 body{
     background-color: #eeeeee;
 }
-
-.list-item-pattern{
-    background-image: url("./abstract-2721627_960_720.png");
-    background-size: 50%;
-}
-
-.list-item-image{
-    background-image: url("./robot-technology-CPU-processor-electronics-sound-783986-wallhere.com.jpg");
-    background-size: cover;
-    background-position: 0 -700px;
-}
-
-.list-item-parallax{
-    background-image: url("./Electronic-Sports-League-ESL-Counter-Strike-Global-Offensive-CS-GO-Team-poly-pro-league-1619049-wallhere.com.jpg");
-    background-size: cover;
-    background-attachment: fixed;
+.list-item{
+    height: 200px;
+    background-color: #dddddd;
+    margin-bottom: 10px;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 25px;
+    color: #ffffff;
 }
