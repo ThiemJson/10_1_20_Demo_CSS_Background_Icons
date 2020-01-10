@@ -1,0 +1,10 @@
+.list-item{
+    border: 1.2px solid red;
+    margin: 10px;
+    color: black;
+    background-color: #dddddd;
+}
+
+body{
+    background-color: #eeeeee;
+}
