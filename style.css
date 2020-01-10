@@ -22,13 +22,13 @@ body{
 }
 
 .list-item-image{
-    background-image: url("./beach.jpeg");
+    background-image: url("./robot-technology-CPU-processor-electronics-sound-783986-wallhere.com.jpg");
     background-size: cover;
-    background-position: center;
+    background-position: 0 -700px;
 }
 
 .list-item-parallax{
-    background-image: url("./beach.jpeg");
+    background-image: url("./Electronic-Sports-League-ESL-Counter-Strike-Global-Offensive-CS-GO-Team-poly-pro-league-1619049-wallhere.com.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
