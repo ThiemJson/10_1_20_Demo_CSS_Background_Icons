@@ -9,3 +9,8 @@
 - background - size: cover
 - background - attachment:fixed // Co dinh 1 tam anh
 - background - repeat
+
+
+# Icon
+- Cách sử dụng Icon: lưu ý  sử dụng trên FontAwesome.com 
+- Một nơi rất hữu hiệu để xử lý 
